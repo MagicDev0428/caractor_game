@@ -33,10 +33,6 @@ https://user-images.githubusercontent.com/99486732/202260127-7384b8b3-10d2-4a64-
 <img src="https://github.com/Princerey/Pokemon/blob/main/imgs/Feedback.png" alt="feedback" />
 </p>
 
-## Authors <img src="https://github.com/Princerey/Pokemon/blob/main/imgs/ash-pika.png" alt="pokeball" width="50px" />
-
-- **Rohit Kumar** - [https://github.com/Princerey](https://github.com/Princerey)
-- **Ananya Mohapatra** - [https://github.com/AnanyaM007](https://github.com/AnanyaM007)
 
 ## Post-Script <img src="https://github.com/Princerey/Pokemon/blob/main/imgs/pokeball.png" alt="pokeball" width="25px" />
 
